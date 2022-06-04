@@ -15,5 +15,7 @@ console.log("New Changes made by prasad")
 
 const prime = () => {
 console.log("Hello Prime Boy")
+console.log("Hello Prime Boy")
+console.log("Hello Prime Boy")
 }
 prime()
