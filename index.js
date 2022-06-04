@@ -17,3 +17,4 @@ const prime = () => {
 console.log("Hello Prime Boy")
 }
 prime()
+prime()
