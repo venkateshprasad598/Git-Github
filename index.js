@@ -12,3 +12,8 @@ console.log("Dev2 Made this changes")
 
 console.log("New Changes made by prasad")
 console.log("New Changes made by prasad")
+
+const prime = () => {
+console.log("Hello Prime Boy")
+}
+prime()
