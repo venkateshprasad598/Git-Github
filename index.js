@@ -19,3 +19,4 @@ console.log("Hello Prime Boy")
 console.log("Hello Prime Boy")
 }
 prime()
+prime()
